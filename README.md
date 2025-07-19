@@ -45,14 +45,3 @@ It trains a Linear Regression model to predict the price 7 days from now
 It compares the predicted price with the average of the past prices
 
 Based on this, it recommends Buy Now or Wait
-
-🔮 Future Improvements
-Integrate with real e-commerce APIs (e.g., Amazon, Flipkart)
-
-Add multiple product tracking
-
-Alert system via email/SMS
-
-Store user history and preferences
-
-👨‍💻 Author
